@@ -1,4 +1,4 @@
-phake - phonegap make
+phake
 =====
 
 ## what is phake ##
